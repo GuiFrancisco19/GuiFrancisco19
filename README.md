@@ -14,6 +14,11 @@ Me chamo Guilherme
 
 <img src="https://skillicons.dev/icons?i=python,cpp" />
 
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/GuiFrancisco19/GuiFrancisco19/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <!--
 **GuiFrancisco19/GuiFrancisco19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
