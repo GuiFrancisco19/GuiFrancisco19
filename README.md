@@ -8,7 +8,12 @@ Me chamo Guilherme
 
 ## 🚀 Tecnologias
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,python,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+
+## 📚 Estudando
+
+<img src="https://skillicons.dev/icons?i=python,cpp" />
+
 
 <!--
 **GuiFrancisco19/GuiFrancisco19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
