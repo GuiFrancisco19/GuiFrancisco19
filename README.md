@@ -10,13 +10,6 @@ Me chamo Guilherme
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,python,github" />
 
-
-- HTML
-- CSS
-- JavaScript
-- Git
-- Python
-
 <!--
 **GuiFrancisco19/GuiFrancisco19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
